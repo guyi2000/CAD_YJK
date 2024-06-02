@@ -21,7 +21,7 @@ ShowSteel - 显示选中钢筋的基本信息
 
 ![YJKHELP命令](assets/YJKHELP.gif)
 
-### YJK
+### `YJK`
 
 ![YJK](assets/YJK.gif)
 
